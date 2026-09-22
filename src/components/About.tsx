@@ -107,7 +107,7 @@ export default function About() {
             <div className="grid grid-cols-2 gap-4 mt-4 font-mono">
               <div className="p-4 border border-white/10 rounded-xl bg-white/5 backdrop-blur-md">
                 <span className="text-white/40 text-[10px] uppercase tracking-wider block mb-1">CURRENT LOCATION</span>
-                <span className="text-white text-xs font-semibold">Berlin, Germany (Remote Enabled)</span>
+                <span className="text-white text-xs font-semibold">Mirpur, Dhaka, Bangladesh</span>
               </div>
               <div className="p-4 border border-white/10 rounded-xl bg-white/5 backdrop-blur-md">
                 <span className="text-white/40 text-[10px] uppercase tracking-wider block mb-1">INTERESTS</span>
@@ -128,10 +128,12 @@ export default function About() {
                 <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-48 h-48 bg-gradient-to-tr from-orange-500/10 to-blue-500/20 rounded-full blur-2xl" />
                 
                 {/* Abstract graphic representing Kamal */}
-                <svg className="w-36 h-36 text-orange-500/80 z-10" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                {/* <svg className="w-36 h-36 text-orange-500/80 z-10" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M50 15C30.67 15 15 30.67 15 50C15 69.33 30.67 85 50 85C69.33 85 85 69.33 85 50C85 30.67 69.33 15 50 15ZM50 25C54.4183 25 58 28.5817 58 33C58 37.4183 54.4183 41 50 41C45.5817 41 42 37.4183 42 33C42 28.5817 45.5817 25 50 25ZM50 78C38.6667 78 28.85 71.8 23.63 62.5C23.77 53.67 41.33 48.83 50 48.83C58.67 48.83 76.23 53.67 76.37 62.5C71.15 71.8 61.33 78 50 78Z" fill="currentColor" stroke="rgba(249,115,22,0.5)" strokeWidth="0.5"/>
                   <circle cx="50" cy="50" r="45" stroke="currentColor" strokeWidth="1" strokeDasharray="3,3" className="animate-spin-slow origin-center" style={{ transformOrigin: '50px 50px' }} />
-                </svg>
+                </svg> */}
+
+                <img src="/src/images/Kamal6.png" alt="Kamal Hossain" className="w-36 h-45 z-10" />
 
                 <div className="absolute bottom-3 left-3 bg-[#0c0c0f]/90 border border-white/10 px-2.5 py-1 rounded text-[8px] font-mono tracking-widest text-orange-400">
                   SYSTEM LEVEL ACTIVATED
@@ -150,7 +152,7 @@ export default function About() {
                 </div>
                 <div className="flex justify-between items-center border-b border-white/5 pb-2.5">
                   <span className="text-xs text-white/40">Available Email</span>
-                  <span className="text-xs font-semibold text-white hover:text-orange-400 transition-colors">mariaafrin1106@gmail.com</span>
+                  <span className="text-xs font-semibold text-white hover:text-orange-400 transition-colors">kamalhossainm5443@gmail.com</span>
                 </div>
                 <div className="flex justify-between items-center pb-1">
                   <span className="text-xs text-white/40">Security Clearance</span>

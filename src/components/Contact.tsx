@@ -150,7 +150,7 @@ export default function Contact({ inquiryTopic }: ContactProps) {
                 </div>
                 <div>
                   <span className="text-[8px] font-mono text-white/40 font-bold uppercase block">DIRECT EMAIL</span>
-                  <span className="text-xs font-mono font-bold text-white">mariaafrin1106@gmail.com</span>
+                  <span className="text-xs font-mono font-bold text-white">kamalhossainm5443@gmail.com</span>
                 </div>
               </div>
 
