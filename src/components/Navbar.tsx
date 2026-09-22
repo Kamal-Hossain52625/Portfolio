@@ -154,6 +154,8 @@ export default function Navbar() {
               HIRE ME
               <ArrowUpRight className="w-3.5 h-3.5 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
             </a>
+
+            
           </div>
 
           {/* Mobile Hamburguer trigger */}
